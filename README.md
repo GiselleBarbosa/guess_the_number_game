@@ -10,4 +10,4 @@
 
 ### Projeto feito durante curso: Modern JavaScript From The Beginning
 
-[Play Game](https://gisellebarbosa.github.io/GAME-Adivinhe-o-Numero/):video_game:
+[Play Game](https://gisellebarbosa.github.io/GAME-Adivinhe-o-Numero/) :video_game:
